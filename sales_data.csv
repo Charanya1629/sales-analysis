@@ -1,0 +1,9 @@
+OrderID,Product,Region,Sales
+101,Laptop,North,1200
+102,Mobile,South,800
+103,Tablet,East,600
+104,Laptop,West,1500
+105,Headphones,North,300
+106,Mobile,South,950
+107,Tablet,East,700
+108,Laptop,West,2000
