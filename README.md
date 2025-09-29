@@ -10,7 +10,7 @@ We load the dataset, explore it, perform grouping and filtering, and create visu
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ---
 
